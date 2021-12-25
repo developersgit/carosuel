@@ -1,0 +1,11 @@
+{
+  "name": "carousel",
+  "version": "1.0.0",
+  "description": "A simple carousel with left and right navigation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prince Gautam",
+  "license": "ISC"
+}
